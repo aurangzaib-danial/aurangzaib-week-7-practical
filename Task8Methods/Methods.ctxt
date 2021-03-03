@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Methods
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ readInteger()
+comment3.params=
+comment3.target=int[]\ readIntegerArray()
+comment4.params=integers
+comment4.target=void\ printArray(int[])
+numComments=5
